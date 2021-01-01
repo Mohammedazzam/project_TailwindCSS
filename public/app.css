@@ -31362,7 +31362,7 @@ video {
 
 .btn:hover{
   --tw-bg-opacity: 1;
-  background-color: rgba(236, 72, 153, var(--tw-bg-opacity));
+  background-color: rgba(16, 185, 129, var(--tw-bg-opacity));
 }
 
 .btn{
