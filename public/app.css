@@ -11209,7 +11209,7 @@ video {
 }
 
 .font-body{
-  font-family: Overpass;
+  font-family: Overpass, sans-serif;
 }
 
 .font-thin{
@@ -31168,7 +31168,7 @@ video {
 
 .btn:hover{
   --tw-bg-opacity: 1;
-  background-color: rgba(16, 185, 129, var(--tw-bg-opacity));
+  background-color: rgba(236, 72, 153, var(--tw-bg-opacity));
 }
 
 .btn{
@@ -41843,7 +41843,7 @@ video {
   }
 
   .sm\:font-body{
-    font-family: Overpass;
+    font-family: Overpass, sans-serif;
   }
 
   .sm\:font-thin{
@@ -72379,7 +72379,7 @@ video {
   }
 
   .md\:font-body{
-    font-family: Overpass;
+    font-family: Overpass, sans-serif;
   }
 
   .md\:font-thin{
@@ -102915,7 +102915,7 @@ video {
   }
 
   .lg\:font-body{
-    font-family: Overpass;
+    font-family: Overpass, sans-serif;
   }
 
   .lg\:font-thin{
@@ -133451,7 +133451,7 @@ video {
   }
 
   .xl\:font-body{
-    font-family: Overpass;
+    font-family: Overpass, sans-serif;
   }
 
   .xl\:font-thin{
@@ -163987,7 +163987,7 @@ video {
   }
 
   .\32xl\:font-body{
-    font-family: Overpass;
+    font-family: Overpass, sans-serif;
   }
 
   .\32xl\:font-thin{
