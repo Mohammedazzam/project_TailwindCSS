@@ -10,6 +10,10 @@ module.exports = {
       colors: {
         primary: '#303669'
       },
+      spacing:{
+        112: '28rem',
+        128: '32rem'
+      }
       },
     
     },
